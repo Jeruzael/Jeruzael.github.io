@@ -3,11 +3,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Jeruzael</title>
+	<title>Testing php</title>
 </head>
 <body>
-	<h1>First Github Peronal Website</h1>
-	<h2>This is my personal git gub site</h2>
-	<a href="test.php">PHP FILE</a>
+	<?php echo "php work"; ?>
 </body>
 </html>
